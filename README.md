@@ -2,9 +2,10 @@
 
 Projeto que simula um ecommerce, lista e filtra artigos e adiciona no carrinho.
 
+**Projeto de Desafio do curso Bootcamp da RocketSeat - O Objetivo do projeto é acadêmico, usar em um único projeto os itens abaixo listados no item Sopinha de Letrinhas**
+
 [Imagem do App SimplEcommerce](https://raw.githubusercontent.com/mayconfrancisco/simplEcommerce/master/imgs/SimplEcommerceRN.gif)
 
-**Projeto de Desafio do curso Bootcamp da RocketSeat**
 
 ### Para rodar o projeto
 
